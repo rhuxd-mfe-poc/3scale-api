@@ -9,7 +9,7 @@ usage() {
   exit 1
 }
 
-APP_NAME=${APP_NAME:-mfe-poc}
+APP_NAME=${APP_NAME:-3scale}
 DEPLOYMENT_NAME=threescale-api
 
 NAMESPACE=${NAMESPACE}
